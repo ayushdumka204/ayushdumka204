@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-- 🌐 **Full-Stack Developer** specialized in building high-performance web applications.
+- 🌐 Learning **Full-Stack Development** for building high-performance web applications.
 - 🛠️ Expertise in crafting **Custom PHP APIs** and dynamic React interfaces.
 - 💡 Focus on **Performance Optimization**, SEO, and seamless User Journeys.
 - ⚡ I bridge the gap between complex logic and pixel-perfect design.
